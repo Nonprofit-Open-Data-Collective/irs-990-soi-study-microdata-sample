@@ -9,13 +9,13 @@ Placeholder for creation of instructions on extraction of ASCII data and convers
 
 https://www.irs.gov/statistics/soi-tax-stats-charities-and-other-tax-exempt-organizations-statistics
 
-## Sampling framework: 
-
-https://www.irs.gov/statistics/soi-tax-stats-exempt-organizations-study-data-sources-and-limitations
-
 ## Study meta-data: 
 
 https://www.irs.gov/statistics/soi-tax-stats-charities-other-tax-exempt-organizations-study-metadata
+
+## Sampling framework: 
+
+https://www.irs.gov/statistics/soi-tax-stats-exempt-organizations-study-data-sources-and-limitations
 
 
 | Tax Year | Forms 990 processed between: | Sample count 501(c)(3) | Population count 501(c)(3) | Sample count 501(c)(4)-(9) | Population count 501(c)(4)-(9) |
